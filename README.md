@@ -9,11 +9,11 @@ Status: Finished
 ## Tecnologies
 
 <ul> 
-    <li> React with Vite App </li>
+    <li> Reactjs with Vite Bundler </li>
     <li> Plain CSS </li>
     <li> Typescript </li>
     <li> JWT </li>
-    <li> Express </li>
+    <li> Expressjs </li>
 </ul>
 
 ## Available Scripts
