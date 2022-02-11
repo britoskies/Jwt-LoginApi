@@ -2,15 +2,13 @@
 
 ## Description
 
-Learned user authentication with JWT, as well as how to develop an API with Typescrypt and including Vite app in frontend.
+Learned user authentication with JWT, as well as how to develop an API with Typescrypt.
 
 Status: Finished  
 
 ## Tecnologies
 
 <ul> 
-    <li> Reactjs with Vite Bundler </li>
-    <li> Plain CSS </li>
     <li> Typescript </li>
     <li> JWT </li>
     <li> Expressjs </li>
@@ -20,10 +18,7 @@ Status: Finished
 
 In the project directory, you can run:
 
-### `npm run dev`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000/login](http://localhost:3000/login) to view it in your browser.
+``` npm run dev ```
 
 To test the server side / API: <br>
 Personal recommendation is using Postman or Thunder Client to test the POST and GET requests. <br>
